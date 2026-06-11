@@ -24,29 +24,19 @@ Since the `.pbix` file exceeds GitHub's size limit due to high-quality animated 
 #### 1️⃣ Landing Page
 Features a futuristic Cyberpunk-themed interface with dynamic navigation buttons to guide executive users.
 
-![Landing Page](Screenshot%202026-06-11%20222800.jpg)
+<img src="Screenshot 2026-06-11 222800.jpg" width="800">
 
 #### 2️⃣ Overview & KPIs Dashboard
 Monitors high-level metrics including Machine Availability (99.94%), total failures, and average temperatures utilizing clean layouts and collapsible sidebars.
 
-![Overview Dashboard](Screenshot%202026-06-11%20222814.jpg)
+<img src="Screenshot 2026-06-11 222814.jpg" width="800">
 
 #### 3️⃣ Root Cause & Failure Analysis
 Deep dive into machine status using customized Scatter Charts and dynamic DAX measures for conditional formatting.
 
-![Failure Analysis](Screenshot%202026-06-11%20222827.jpg)
+<img src="Screenshot 2026-06-11 222827.jpg" width="800">
 
 #### 4️⃣ Executive Summary & Recommendations
 Highlights critical asset mitigation and thermal regulation controls with automated key influencers.
 
-![Executive Summary](Screenshot%202026-06-11%20222851.jpg)
-
----
-
-### ⚙️ Technical Skills Demonstrated
-* **Data Engineering:** Flattening complex JSON data structures and cleaning telemetry metrics.
-* **Advanced DAX Formulas:** Developed specialized metrics for machine uptime and deployed complex `RANKX` functions to dynamically control conditional formatting styles without visual clutter.
-* **UI/UX Optimization:** Implemented dynamic sidebars via bookmarks and buttons, and carefully integrated subtle animated backgrounds to enhance decision-maker engagement.
-
----
-*Feel free to explore the repository, download the dashboard, and share your feedback!*
+<img src="Screenshot 2026-06-11 222851.jpg" width="800">
